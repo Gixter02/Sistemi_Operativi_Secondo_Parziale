@@ -1,0 +1,4 @@
+riga1
+ciao
+1 bello
+sono una linea molto lunga
